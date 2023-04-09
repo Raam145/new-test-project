@@ -1,3 +1,4 @@
 This file has been created to comapre the difference between working and commit area
 This is a text file created for testing the diff tool p4merge.
 Appending one more line
+we're going to compare the staging area and commit area
